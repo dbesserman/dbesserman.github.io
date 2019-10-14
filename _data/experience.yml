@@ -1,9 +1,29 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Label Digital
+  job_title: Senior Ruby Developer
+  dates: February 2019 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Ruby 2.4, Rails 5.2, MySQL 5.7, Docker, Google Cloud Platform, Compute Engine
+  description: |
+    Ownership of an API that calculates prices for our ecommerce sites
+- layout: left
+  company: monAlbumPhoto
+  job_title: Full-Stack Developer
+  dates: Avril 2017 - January 2019
+  quote: >
+    Ruby 2.3, Rails 4 and 5, PostgreSQL, Docker, Google Cloud Platform, Kubernetes
+  description: |
+    Maintenance and evolution of the historical monolith
+    Splitting of the monolith into micro-services (checkout, application sending creations to the factory)
+    Front-End Integration for various new micro-services, landing pages for new products and components of the main site
+- layout: left
+  company: prixing.fr
+  job_title: Junior Ruby Developer
+  dates: Avril 2017 - January 2019
+  quote: >
+    Ruby 1.9, Rails 3.2
+  description: |
+    Creation of a task detecting duplicates in the database
+    Creation of a responsive catalogue reader
+    Automation of external data import
+    Feature allowing to run various data extraction tasks from the back office
