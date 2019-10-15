@@ -1,10 +1,26 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Launch School
+  dates: 2015 - 2016
+  qualification: Msc Strategy, Organisation and Information Systems Consulting
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Ruby, Javascript, HTML, CSS, TDD, BDD, Sinatra, Rails, command line, git
+  description:
+    Launch School in an self-paced online program that aims at training well grounded software engineers. Where most bootcamps skim through fundamentals in order to quickly get a sense of proficiency with a framework, Launch School teaches that the real proficiency come from solid fundamentals. Their `mastery based` approach to teaching forces students to dig deeply into the content in order the pass each step of the program.
+- layout: left
+  name: Université Paris I - Panthéon Sorbonne
+  dates: 2012 - 2013
+  qualification: Msc Strategy, Organisation and Information Systems Consulting
+  quote: >
+    Corporate Strategy, Digital Transformation, Information Systems, Latin America's Economy
+- layout: left
+  name: Université Paris I - Panthéon Sorbonne
+  dates: 2011 - 2012
+  qualification: Msc Finance (M1)
+  quote: >
+    Time Series, Corporate Finance, Market Finance, Monetary Economics, Markets Theory
+- layout: left
+  name: Université Paris I - Panthéon Sorbonne
+  dates: 2007 - 2010
+  qualification: BSc Economics
+  quote: >
+    Macroeconomy, Microeconomy, Econometry, Mathematics, Statistics, Economic Theory
